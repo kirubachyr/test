@@ -1,9 +1,11 @@
 package testing;
 
+import org.testng.annotations.Test;
 
 public class DemoTest 
 {
-	public static void main(String args[])
+	@Test
+	void main()
 {
 	System.out.println("testng");
 }
