@@ -8,7 +8,6 @@ public class DemoTest
 	void main()
 {
 	System.out.println("test");
-		System.out.println("KK");
 }
 	
 	
