@@ -8,7 +8,7 @@ public class DemoTest
 	void main()
 {
 	System.out.println("testng");
-	
+	System.out.println("testng");
 }
 	
 	
