@@ -10,6 +10,11 @@ public class DemoTest
 	System.out.println("testng");
 	//
 }
-	
+	@Test
+	void main1()
+{
+	System.out.println("testng1");
+	//
+}
 	
 }
