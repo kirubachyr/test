@@ -7,7 +7,8 @@ public class DemoTest
 	@Test
 	void main()
 {
-	System.out.println("testnggggggg");
+	System.out.println("test");
+		System.out.println("KK");
 }
 	
 	
